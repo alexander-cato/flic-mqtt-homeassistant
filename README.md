@@ -12,8 +12,8 @@ A Flic SDK app that publishes all of a Flic Hub's connected buttons to Home Assi
 
 ## Installation:
 **1. Enable the Flic SDK:**
-1. Using the Flic mobile app, connect to the Hub, go to settings, and enable SDK access (If you do not see this option you may need to update your Hubs firmware first).
-2.  Go to: <https://hubsdk.flic.io/> and login, your hub should be discovered automatically.
+1. Using the Flic mobile app, connect to the Hub, go to settings, and enable SDK access (If you do not see this option you may need to update your hub's firmware first).
+2.  Go to: <https://hubsdk.flic.io/> and login. Your hub should be discovered automatically.
 
 **2. Create the module:**
 1. Once logged into the web IDE, click "Create Module" and give it a name. (You can name it whatever you want, but I named mine "HASS-MQTT")
